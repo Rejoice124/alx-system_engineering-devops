@@ -1,1 +1,1 @@
-My first readme
+a script that create print add count list
