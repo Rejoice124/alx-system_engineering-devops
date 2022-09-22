@@ -1,3 +1,0 @@
-#!/bin/bash 13
-tr [A-Za-z] [N-ZA-Mn-za-m] 143
-tr [A-Za-z] [N-ZA-Mn-za] 13
